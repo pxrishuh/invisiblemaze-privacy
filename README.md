@@ -1,0 +1,2 @@
+# invisiblemaze-privacy
+privacy policy
